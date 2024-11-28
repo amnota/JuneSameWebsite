@@ -414,7 +414,6 @@ body.dark-theme {
 /*=================MUSIC PLAYER=================*/
 .music-player{
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     margin: 1.5rem;
@@ -1051,7 +1050,6 @@ body.dark-theme {
     }
     .music-player{
         display: flex;
-        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
