@@ -1227,6 +1227,7 @@ body.dark-theme {
         border: 5px solid white;
         border-radius: 20px;
         margin-top: 3rem;
+        margin-bottom: 6rem;
     }
     .image-container{
         width: 160px;
