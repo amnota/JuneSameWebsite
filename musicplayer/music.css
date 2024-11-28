@@ -1061,6 +1061,7 @@ body.dark-theme {
         border-radius: 20px;
         margin-top: 3rem;
         margin-bottom: 6rem;
+        position: relative;
     }
     .image-container{
         width: 160px;
