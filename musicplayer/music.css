@@ -1056,10 +1056,11 @@ body.dark-theme {
         justify-content: center;
     }
     .music-container{
-        padding: 80px 40px;
+        padding: 80px 25px;
         border: 5px solid white;
         border-radius: 20px;
         margin-top: 3rem;
+        margin-bottom: 6rem;
     }
     .image-container{
         width: 160px;
