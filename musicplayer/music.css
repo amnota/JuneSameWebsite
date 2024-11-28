@@ -430,6 +430,7 @@ body.dark-theme {
     box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.35);;
     display: flex;
     z-index: 10;
+    margin-bottom: 3rem;
 }
 .image-container{
     width: 110px;
